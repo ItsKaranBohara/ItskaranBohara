@@ -1,4 +1,3 @@
-![MasterHead](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Karan Bohara</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
