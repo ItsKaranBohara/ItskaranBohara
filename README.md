@@ -1,4 +1,4 @@
-[![MasterHead]https://cdn.dribbble.com/users/1732368/screenshots/13868440/media/e5d35a4718deabcdc17dea202ed59373.gif
+![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="center">Hi 👋, I'm Karan Bohara</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
