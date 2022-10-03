@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML,CSS,mysql,JS,PHP,Bootstrap,Laravel**
 
-- 📫 How to reach me **karanbohara20@gmail.com**
+- 📫 How to reach me **karanbohara420@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
