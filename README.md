@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/itskaranbohara" target="blank"><img src="https://img.shields.io/twitter/follow/itskaranbohara?logo=twitter&style=for-the-badge" alt="itskaranbohara" /></a> </p>
 
-- 🌱 I’m currently learning **laravel,python**
+- 🌱 I’m currently learning **laravel,angulerjs**
 
 - 💬 Ask me about **HTML,CSS,mysql,JS,PHP,Bootstrap,Laravel**
 
